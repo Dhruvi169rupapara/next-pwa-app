@@ -4,11 +4,13 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
+    "prebuild": "node scripts/generate-assetlinks.js",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
+    "@next/env": "^15.3.1",
     "next": "15.3.1",
     "next-pwa": "^5.6.0",
     "react": "^19.0.0",
