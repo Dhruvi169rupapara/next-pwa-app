@@ -1,0 +1,40 @@
+{
+  "theme_color": "#F5CCD8",
+  "background_color": "#e73565",
+  "orientation": "any",
+  "display": "standalone",
+  "dir": "auto",
+  "lang": "en-GB",
+  "name": "My PWA app",
+  "short_name": "My PWA app",
+  "start_url": "https://de28-2401-4900-8899-682f-f416-a215-e236-2e42.ngrok-free.app/",
+  "icons": [
+    {
+      "purpose": "maskable",
+      "sizes": "512x512",
+      "src": "icon_512.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "any",
+      "sizes": "512x512",
+      "src": "icon_512.png",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon_256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "icon_512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
