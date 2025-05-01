@@ -7,7 +7,7 @@
   "lang": "en-GB",
   "name": "My PWA app",
   "short_name": "My PWA app",
-  "start_url": "https://de28-2401-4900-8899-682f-f416-a215-e236-2e42.ngrok-free.app/",
+  "start_url": "/",
   "icons": [
     {
       "purpose": "maskable",
